@@ -1,2 +1,0 @@
-# pantheon
-prueba
